@@ -1,2 +1,2 @@
 # Ecommerce_sales_Dashboard 
-To view the visualisation download the file and view it 
+To view the visualisation download the power BI and view it 
